@@ -1,0 +1,11 @@
+.bg-body{
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 4px;
+}
+.fs-25{
+    font-size: 25px;
+    text-align: center;
+    color: royalblue;
+}
